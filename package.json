@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
+  "source": "src/index.ts",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
